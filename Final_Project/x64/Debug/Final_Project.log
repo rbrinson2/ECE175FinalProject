@@ -1,0 +1,6 @@
+﻿  FP.c
+C:\Users\rbrin\OneDrive\School\ECE 175\Labs\Final_Project\Final_Project\FP.c(315,18): warning C4047: '==': 'card **' differs in levels of indirection from 'card *'
+C:\Users\rbrin\OneDrive\School\ECE 175\Labs\Final_Project\Final_Project\FP.c(316,20): warning C4047: '=': 'card_s *' differs in levels of indirection from 'card **'
+C:\Users\rbrin\OneDrive\School\ECE 175\Labs\Final_Project\Final_Project\FP.c(299,36): warning C4101: 'hold': unreferenced local variable
+C:\Users\rbrin\OneDrive\School\ECE 175\Labs\Final_Project\Final_Project\FP.c(570,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Final_Project.vcxproj -> C:\Users\rbrin\OneDrive\School\ECE 175\Labs\Final_Project\x64\Debug\Final_Project.exe
